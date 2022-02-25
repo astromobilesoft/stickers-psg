@@ -1,0 +1,36 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.psg",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"leomessi1",
+         "name":"Leo Messi",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"mbappe1",
+         "name":"Mbappe",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"neymarjr1",
+         "name":"Neymar Jr",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"team2022a",
+         "name":"Team 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"team2022b",
+         "name":"Team 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      }
+   ]
+}
