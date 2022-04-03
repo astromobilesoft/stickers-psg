@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.psg",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"ligueone2122m28",
+         "name":"vs Bordeaux",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
        {
          "identifier":"ligueone2122m28",
          "name":"vs Bordeaux",
