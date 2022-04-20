@@ -93,6 +93,36 @@
          "stickers":"16"
       },
       {
+         "identifier":"animated1",
+         "name":"Animated 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated2",
+         "name":"Animated 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated3",
+         "name":"Animated 3",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated4",
+         "name":"Animated 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated5",
+         "name":"Animated 5",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
          "identifier":"team2022b",
          "name":"Team 2022 (2)",
          "animated_sticker_pack":false,
