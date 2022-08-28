@@ -1,0 +1,24 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.psg",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"ligueone2223m3",
+         "name":"vs Lille",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ligueone2223m2",
+         "name":"vs Montpellier",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"ligueone2223m1",
+         "name":"vs Clermont",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      }
+   ]
+}
