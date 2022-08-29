@@ -3,6 +3,30 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"psgqatar22a",
+         "name":"Team Qatar (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"psgqatar22b",
+         "name":"Team Qatar (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"plantilla2023a",
+         "name":"Team 2023 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"plantilla2023b",
+         "name":"Team 2023 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
          "identifier":"georginiowijnaldum1",
          "name":"Georginio Wijnaldum",
          "animated_sticker_pack":false,
