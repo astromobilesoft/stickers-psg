@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2223fg5a",
+         "name":"vs Maccabi Haifa (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ucl2223fg5b",
+         "name":"vs Maccabi Haifa (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"ucl2223fg2",
          "name":"vs Maccabi Haifa",
          "animated_sticker_pack":false,
