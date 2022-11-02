@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2223fg6",
+         "name":"vs Juventus",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
          "identifier":"ligueone2223m13",
          "name":"vs Troyes",
          "animated_sticker_pack":false,
