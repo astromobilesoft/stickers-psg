@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ligueone2223m14a",
+         "name":"vs Lorient (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ligueone2223m14b",
+         "name":"vs Lorient (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"ucl2223fg6",
          "name":"vs Juventus",
          "animated_sticker_pack":false,
