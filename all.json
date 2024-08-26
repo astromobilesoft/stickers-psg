@@ -1,0 +1,480 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.psg",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"team2024",
+         "name":"Team 2024",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"euro2024c1",
+         "name":"vs Portugal",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024o1",
+         "name":"vs Belgium",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024fg3",
+         "name":"vs Poland",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024fg1",
+         "name":"vs Austria",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"euro2024team1",
+         "name":"Team Euro 2024",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"ligueone2223m37",
+         "name":"vs Strasbourg",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"ligueone2223m36",
+         "name":"vs Auxerre",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"ligueone2223m35",
+         "name":"vs AC Ajaccio",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"ligueone2223m34",
+         "name":"vs Troyes",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"ligueone2223m32",
+         "name":"vs Angers",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"ligueone2223m31a",
+         "name":"vs Lens (1)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"ligueone2223m31b",
+         "name":"vs Lens (2)",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"ligueone2223m30",
+         "name":"vs Nice",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ligueone2223m27",
+         "name":"vs Brest",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ligueone2223m26",
+         "name":"vs Nantes",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ligueone2223m25",
+         "name":"vs Marseille",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ligueone2223m24a",
+         "name":"vs Lille (1)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ligueone2223m24b",
+         "name":"vs Lille (2)",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ligueone2223m22",
+         "name":"vs Toulouse",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ligueone2223m21",
+         "name":"vs Montpellier",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"coupedefrance2223f16",
+         "name":"vs Pays de Cassel",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"ligueone2223m18",
+         "name":"vs Angers",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"coupedefrance2223f32",
+         "name":"vs Chateauroux",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"ligueone2223m16b",
+         "name":"vs Strasbourg",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ligueone2223m15a",
+         "name":"vs Auxerre (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ligueone2223m15b",
+         "name":"vs Auxerre (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ligueone2223m14a",
+         "name":"vs Lorient (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ligueone2223m14b",
+         "name":"vs Lorient (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ucl2223fg6",
+         "name":"vs Juventus",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ligueone2223m13",
+         "name":"vs Troyes",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"ucl2223fg5a",
+         "name":"vs Maccabi Haifa (1)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ucl2223fg5b",
+         "name":"vs Maccabi Haifa (2)",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"ligueone2223m12",
+         "name":"vs AC Ajaccio",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"ligueone2223m10",
+         "name":"vs Marseille",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ligueone2223m9",
+         "name":"vs Nice",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ligueone2223m8",
+         "name":"vs Lyon",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"ucl2223fg2",
+         "name":"vs Maccabi Haifa",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"sergioramos1",
+         "name":"Sergio Ramos",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ligueone2223m7",
+         "name":"vs Brest",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ucl2223fg1",
+         "name":"vs Juventus",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ligueone2223m6",
+         "name":"vs Nantes",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"ligueone2223m5",
+         "name":"vs Toulouse",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"psgqatar22a",
+         "name":"Team Qatar (1)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"psgqatar22b",
+         "name":"Team Qatar (2)",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"plantilla2023a",
+         "name":"Team 2023 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"plantilla2023b",
+         "name":"Team 2023 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"ligueone2223m3",
+         "name":"vs Lille",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ligueone2223m2",
+         "name":"vs Montpellier",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"ligueone2223m1",
+         "name":"vs Clermont",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"supercup22f1",
+         "name":"vs Nantes",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"ligueone2122m38",
+         "name":"vs Metz",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"ligueone2122m37",
+         "name":"vs Montpellier",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"emojis1",
+         "name":"Emojis 1",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"ligueone2122m35",
+         "name":"vs Strasbourg",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"ligueone2122m34",
+         "name":"vs Lens",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"ligueone2122m33",
+         "name":"vs Angers",
+         "animated_sticker_pack":false,
+         "stickers":"22"
+      },
+      {
+         "identifier":"georginiowijnaldum1",
+         "name":"Georginio Wijnaldum",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"club2",
+         "name":"Club 2",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"ligueone2122m32",
+         "name":"vs Marseille",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"ligueone2122m31",
+         "name":"vs Clermont",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"ligueone2122m30",
+         "name":"vs Lorient",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"ligueone2122m28",
+         "name":"vs Bordeaux",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"ligueone2122m26",
+         "name":"vs St Etienne",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"ucl2122o1",
+         "name":"vs Real Madrid",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"ligueone2122m23",
+         "name":"vs Lille",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"leomessi1",
+         "name":"Leo Messi",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"mbappe1",
+         "name":"Mbappe",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"neymarjr1",
+         "name":"Neymar Jr",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"goal1",
+         "name":"Goal",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"team2022a",
+         "name":"Team 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"animated1",
+         "name":"Animated 1",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated2",
+         "name":"Animated 2",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated3",
+         "name":"Animated 3",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated4",
+         "name":"Animated 4",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"animated5",
+         "name":"Animated 5",
+         "animated_sticker_pack":true,
+         "stickers":"15"
+      },
+      {
+         "identifier":"team2022b",
+         "name":"Team 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"pochettino1",
+         "name":"Pochettino",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      }
+   ]
+}
