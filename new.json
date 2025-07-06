@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2526a",
+         "name":"Kit Home 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"kit2526b",
+         "name":"Kit Away 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
          "identifier":"clubworldcup2025c1",
          "name":"vs Bayern Munich",
          "animated_sticker_pack":false,
