@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"kit2526d",
+         "name":"Kit Fourth 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"kit2526c",
+         "name":"Kit Third 25-26",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },          
+      {
          "identifier":"desiredoue1",
          "name":"Désiré Doué",
          "animated_sticker_pack":false,
