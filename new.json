@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"ucl2526s4",
+         "name":"vs Bayern Munich (2)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },        
+      {
+         "identifier":"ucl2526s1",
+         "name":"vs Bayern Munich (1)",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },      
+      {
          "identifier":"intercontinental2025w1",
          "name":"Intercontinental Champion 2025",
          "animated_sticker_pack":false,
