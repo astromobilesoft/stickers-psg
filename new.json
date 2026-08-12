@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"uefasupercup2026w1",
+         "name":"Super Cup Champions 2026",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },        
+      {
          "identifier":"kit2627b",
          "name":"Kit Away 26-27",
          "animated_sticker_pack":false,
