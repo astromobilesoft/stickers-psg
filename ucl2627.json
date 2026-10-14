@@ -3,10 +3,16 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"ucl2122o1",
-         "name":"vs Real Madrid",
+         "identifier":"ucl2627fg2",
+         "name":"vs Manchester City",
          "animated_sticker_pack":false,
-         "stickers":"16"
+         "stickers":"18"
+      },
+      {
+         "identifier":"ucl2627fg1",
+         "name":"vs Slovan Bratislava",
+         "animated_sticker_pack":false,
+         "stickers":"20"
       }
    ]
 }
